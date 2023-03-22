@@ -1,0 +1,12 @@
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\bin\Debug\net6.0\MedicosApp.Core.Domain.deps.json
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\bin\Debug\net6.0\MedicosApp.Core.Domain.dll
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\bin\Debug\net6.0\MedicosApp.Core.Domain.pdb
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.AssemblyInfo.cs
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.dll
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\refint\MedicosApp.Core.Domain.dll
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\MedicosApp.Core.Domain.pdb
+C:\Users\bryan\OneDrive\Documents\Visual Studio 2022\MedicosApp.Core.Domain\obj\Debug\net6.0\ref\MedicosApp.Core.Domain.dll
